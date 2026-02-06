@@ -1,0 +1,182 @@
+{
+  "1": {
+    "class_name": "Chemicals",
+    "items": ["acetate of cellulose unprocessed", "acetates chemicals", "acetic anhydride", "acetone", "acetylene", "acetylene tetrachloride", "acid proof chemical compositions", "acids", "acidulated water for recharging batteries", "acidulated water for recharging accumulators", "acrylic resins unprocessed", "actinium", "activated carbon", "activated charcoal", "active chemical ingredients", "active chemical ingredients for use in the manufacture of pharmaceuticals", "chemical additives to drilling muds", "chemical additives to fungicides", "chemical additives to insecticides", "chemical additives to motor fuel", "adhesive preparations for surgical bandages", "adhesives for billposting", "adhesives for industrial purposes", "adhesives for paperhanging", "adhesives for wallpaper", "adhesives for wall tiles", "adjuvants other than for medical purposes", "agar-agar for industrial purposes", "agglutinants for concrete", "agricultural chemicals except fungicides", "albumenized paper", "albumin animal raw material", "albumin vegetable raw material", "alcohol for industrial purposes", "aldehydes", "alginates for industrial purposes", "alginates for the food industry", "alkalies", "alkaline iodides for industrial purposes", "alkaline metals", "alkaline-earth metals", "alkaloids", "alum", "alumina", "aluminium acetate", "aluminium alum", "aluminium chloride", "aluminium hydrate", "aluminium iodide", "aluminium silicate", "americium", "ammonia volatile alkali for industrial purposes", "ammonia alum", "ammonia", "ammoniacal salts", "ammonium aldehyde", "ammonium nitrate", "ammonium salts", "amyl acetate", "amyl alcohol", "anhydrides", "anhydrous ammonia", "animal carbon", "animal carbon preparations", "animal charcoal", "animal extracts for the food industry", "animal manure", "anthranilic acid", "anti-boil preparations for engine coolants", "anti-frothing solutions for batteries", "anti-incrustants", "anti-knock substances for internal combustion engines", "anti-sprouting preparations for vegetables", "anti-tarnishing chemicals for windows", "antifreeze", "antimony", "antimony oxide", "antimony sulfide", "antioxidants for use in manufacture", "antioxidants for cosmetics manufacture", "antioxidants for food supplements manufacture", "antioxidants for pharmaceuticals manufacture", "antistatic preparations other than for household purposes", "argon", "arsenic", "arsenious acid", "artificial sweeteners for industrial purposes", "artificial sweeteners for the food industry", "aspartame for industrial purposes", "aspartame for the food industry", "astatine", "auxiliary fluids for use with abrasives", "bacterial preparations other than for medical use", "bacteriological preparations for acetification", "bacteriological preparations other than for medical use", "barium", "barium compounds", "barium sulfate", "baryta", "baryta paper", "barytes", "bases chemical preparations", "basic gallate of bismuth", "bates for dressing skins", "bauxite", "beer clarifying agents", "beer preserving agents", "bentonite", "benzene", "benzene derivatives", "benzene-based acids", "benzoic acid", "benzoic sulfimide for industrial purposes", "benzol", "berkelium", "bicarbonate of soda for chemical purposes", "bichloride of tin", "bichromate of potassium", "bichromate of soda", "biochemical catalysts", "biological preparations other than for medical purposes", "biological tissue cultures other than for medical purposes", "biostimulants for plants", "birdlime", "bismuth", "bismuth subnitrate for chemical purposes", "blood charcoal", "blue vitriol", "copper sulfate blue vitriol", "blueprint cloth", "blueprint paper", "bone charcoal", "borax", "boric acid for industrial purposes", "bouillons for bacteriological cultures other than for medical use", "brake fluid", "brazing fluxes", "brazing preparations", "brickwork preservatives except paints and oils", "bromine for chemical purposes", "by-products of processing cereals for industrial purposes", "caesium", "calcined soda", "calcium carbide", "calcium cyanamide fertilizer", "calcium salts", "californium", "calomel mercurous chloride", "camphor for industrial purposes", "carbides", "carbolineum for protection of plants", "carbon", "carbon black for industrial purposes", "carbon dioxide for industrial purposes", "carbon disulfide", "carbon for filters", "carbon tetrachloride", "carbonates", "carbonic acid", "carbonic hydrates", "casein for industrial purposes", "casein for the food industry", "cassiopium lutetium", "catalysts", "catechu", "caustic alkali", "caustic soda for industrial purposes", "caustics for industrial purposes", "cellulose", "cellulose derivatives chemicals", "cellulose esters for industrial purposes", "cellulose ethers for industrial purposes", "cement metallurgy", "cement for footwear", "cement for mending broken articles", "cement preservatives except paints and oils", "cement waterproofing chemicals except paints", "ceramic compositions for sintering granules and powders", "ceramic glazings", "ceramic materials in particulate form for use as filtering media", "cerium", "chemical additives for oils", "chemical coatings for ophthalmic lenses", "chemical condensation preparations", "chemical intensifiers for paper", "chemical intensifiers for rubber", "chemical preparations for facilitating alloying of metals", "chemical preparations for scientific purposes other than for medical use", "chemical preparations for smoking meat", "chemical preparations for use in photography", "chemical preparations to prevent diseases affecting cereal plants", "chemical preparations to prevent diseases affecting vine plants", "chemical preparations to prevent mildew", "chemical preparations to prevent wheat blight", "chemical reagents other than for medical purposes", "chemical substances for analyses in laboratories other than for medical use", "chemical substances for preserving foodstuffs", "chemicals for manufacture of paints", "chemicals for manufacture of pigments", "chemicals for use in forestry except fungicides herbicides insecticides", "chemicals except pigments for manufacture of enamel", "chimney cleaners chemical", "chlorates", "chlorides", "chlorine", "cholic acid", "chromates", "chrome alum", "chrome salts", "chromic acid", "chromic salts", "chromium oxide", "cinematographic film sensitized but not exposed", "citric acid for industrial purposes", "clarification preparations", "purification preparations", "coal saving preparations", "cobalt oxide for industrial purposes", "collagen for industrial purposes", "collodion", "colour brightening chemicals for industrial purposes", "color brightening chemicals for industrial purposes", "combusting preparations chemical additives to motor fuel", "compositions for repairing inner tubes of tyres", "compositions for repairing tyres", "compositions for manufacture of phonograph records", "compositions for manufacture of technical ceramics", "compositions for threading", "compost", "concrete preservatives except paints and oils", "concrete aeration chemicals", "condensation preventing chemicals", "conductive adhesives", "conductive resins unprocessed", "coolants for vehicle engines", "corrosive preparations", "cream of tartar for chemical purposes", "cream of tartar for industrial purposes", "cream of tartar for the food industry", "creosote for chemical purposes", "crotonic aldehyde", "cryogenic preparations", "cultures of microorganisms other than for medical use", "curium", "currying preparations for leather", "currying preparations for skins", "cyanides prussiates", "cymene", "damp proofing chemicals except paints for masonry", "decolorants for industrial purposes", "bleaching preparations decolorants for industrial purposes", "defoliants", "degreasing preparations for use in manufacturing processes", "dehydrating preparations for industrial purposes", "dendrimer based polymers for use in manufacture of capsules for pharmaceuticals", "descaling preparations other than for household purposes", "detergent additives to petrol", "detergent additives to gasoline", "detergents for use in manufacturing processes", "dextrin size", "diagnostic preparations for research laboratory use", "diagnostic preparations other than for medical use", "diagnostic strips for testing breast milk other than for medical use", "diastase for industrial purposes", "diatomaceous earth", "diazo paper", "dielectric fluids as a chemical preparation for use in metalworking except oils", "disincrustants", "dispersions of plastics", "distilled water", "dolomite for industrial purposes", "drilling muds", "dry ice carbon dioxide", "dysprosium", "electrophoresis gels", "emollients for industrial purposes", "emulsifiers", "enamel staining chemicals", "engine decarbonising chemicals", "chemical preparations for decarbonising engines", "enzyme preparations for industrial purposes", "enzyme preparations for the food industry", "enzymes for industrial purposes", "enzymes for the food industry", "epoxy resins unprocessed", "erbium", "essential oils for use in manufacture", "esters", "ethane", "ethers", "ethyl alcohol", "ethyl ether", "europium", "expanded clay for hydroponic plant growing substrate", "fat bleaching chemicals", "fatty acids", "ferments for chemical purposes", "fermium", "ferrocyanides", "ferrotype plates photography", "fertilizers", "fertilising preparations", "filtering materials of chemical substances", "filtering materials of mineral substances", "filtering materials of unprocessed plastics", "filtering materials of vegetable substances", "filtering preparations for the beverages industry", "finishing preparations for use in manufacture of steel", "fire extinguishing compositions", "fireproofing preparations", "fish meal fertilizers", "fish meal fertilisers", "fissionable chemical elements", "fissionable material for nuclear energy", "fixing baths photography", "fixing solutions photography", "flashlight preparations", "flavonoids phenolic compounds for industrial purposes", "flocculants", "flour for industrial purposes", "flower preservatives", "flowers of sulfur for chemical purposes", "fluids for hydraulic circuits", "liquids for hydraulic circuits", "fluorescent dyes for scientific purposes", "fluorine", "fluorspar compounds", "formic acid", "formic aldehyde for chemical purposes", "foundry binding substances", "foundry moulding preparations", "foundry molding preparations", "foundry sand", "francium", "fuel for nuclear reactors", "fuel saving preparations", "fuller's earth for use in textile industry", "fulling preparations", "fulling preparations for use in textile industry", "gadolinium", "gallic acid for manufacture of ink", "gallium", "gallnuts", "gallotannic acid", "galvanizing baths", "baths for galvanizing", "galvanizing preparations", "gambier", "gas purifying preparations", "preparations for purification of gas", "gelatine for industrial purposes", "gelatine for photographic purposes", "genes of seeds for agricultural production", "getters chemically active substances", "glass frosting chemicals", "glass staining chemicals", "glaziers putty", "glucose for industrial purposes", "glucose for the food industry", "glucosides", "glue for industrial purposes", "glutamic acid for industrial purposes", "gluten for industrial purposes", "gluten for the food industry", "glutinous tree grafting preparations", "glutinous preparations for tree banding", "glycerides", "glycerine for industrial purposes", "glycol", "glycol ether", "gold salts", "grafting mastic for trees", "grafting wax for trees", "graphene", "graphite for industrial purposes", "guano", "gum arabic for industrial purposes", "gum solvents", "degumming preparations", "gum tragacanth for industrial purposes", "gums adhesives for industrial purposes", "gurjun balsam for use in manufacture of varnish", "gypsum for use as fertilizer", "heavy water", "helium", "herbal extracts for the food industry", "holmium", "hormones for hastening ripening of fruit", "horticultural chemicals except fungicides herbicides insecticides", "humus", "humus top dressing", "hydrates", "hydrazine", "hydrochlorates", "hydrochloric acid", "hydrofluoric acid", "hydrogen", "hydrogen peroxide for industrial purposes", "hypochlorite of soda", "hyposulfites", "industrial chemicals", "iodic acid", "iodine for chemical purposes", "iodine for industrial purposes", "iodised albumen", "iodised salts", "ion exchangers chemicals", "iron salts", "isinglass other than for stationery household alimentary purposes", "isotopes for industrial purposes", "kainite", "kaolin", "china clay", "china slip", "ketones", "kieselgur", "krypton", "lactic acid", "lactose raw material", "lactose for industrial purposes", "lactose for the food industry", "lamp black for industrial purposes", "lanthanum", "lead acetate", "lead arsenate", "lead oxide", "leather glues", "leather dressing chemicals", "leather impregnating chemicals", "leather renovating chemicals", "leather waterproofing chemicals", "lecithin raw material", "lecithin for industrial purposes", "lecithin for the food industry", "lime acetate", "lime carbonate", "lime chloride", "limestone hardening substances", "liquids for removing sulfates from batteries", "liquids for removing sulfates from accumulators", "lithia lithium oxide", "lithium", "lithium cobalt oxide", "lithium iron phosphate", "litmus paper", "loam", "lye water for the food industry", "magnesite", "magnesium carbonate", "magnesium chloride", "magnetic fluid for industrial purposes", "malt albumen", "manganate", "manganese dioxide", "mangrove bark for industrial purposes", "masonry preservatives except paints and oils", "mastic for leather", "mastic for tyres", "mastic for tires", "meat tenderizers for industrial purposes", "mercuric oxide", "mercury", "mercury salts", "metal annealing preparations", "metal hardening preparations", "metal tempering preparations", "metalloids", "methane", "methyl benzene", "methyl benzol", "methyl ether", "milk ferments for chemical purposes", "milk ferments for industrial purposes", "milk ferments for the food industry", "mineral acids", "moderating materials for nuclear reactors", "moistening wetting preparations for use in bleaching", "moistening wetting preparations for use in dyeing", "moistening wetting preparations for use in textile industry", "mordants for metals", "mould release preparations", "mold release preparations", "musk for use in manufacture", "must fining preparations", "nanopowders for industrial purposes", "naphthalene", "neodymium", "neon", "neptunium", "nitrate paper", "nitrates", "nitric acid", "nitrogen", "nitrogenous fertilizers", "nitrogenous fertilisers", "nitrous oxide", "oenological bactericides chemical preparations for use in wine making", "oil dispersants", "oil bleaching chemicals", "oil purifying chemicals", "oil separating chemicals", "oils for currying leather", "oils for preparing leather in manufacture", "oils for tanning leather", "oils for preservation of food", "oleic acid", "olivine silicate mineral", "opacifiers for enamel", "opacifiers for glass", "organic digestate fertilizer", "organic digestate fertiliser", "oxalates", "oxalic acid", "oxygen for industrial purposes", "palladium chloride", "paper pulp", "paste fillers for automobile body repair", "paste fillers for car body repair", "peat fertilizer", "peat fertiliser", "peat pots for horticulture", "pectin photography", "pectin for industrial purposes", "pectin for the food industry", "perborate of soda", "percarbonates", "perchlorates", "persulfates", "persulfuric acid", "petroleum dispersants", "phenol for industrial purposes", "phosphates fertilizers", "phosphates fertilisers", "phosphatides", "phosphoric acid", "phosphorus", "photographic developers", "photographic emulsions", "photographic paper", "photographic sensitizers", "photometric paper", "photosensitive plates", "picric acid", "plant extracts for the food industry", "plant extracts for use in manufacture of cosmetics", "plant extracts for use in manufacture of pharmaceuticals", "plant growth regulating preparations", "plasticizers", "plastics unprocessed", "plastisols", "plutonium", "polish removing substances", "substances for removing polish", "polonium", "polymer resins unprocessed", "potash", "potash water", "potassium", "potassium dioxalate", "potato flour for industrial purposes", "potting soil", "power steering fluid", "praseodymium", "preparations for preventing tarnishing of glass", "preparations for preventing tarnishing of lenses", "preparations for stimulating cooking for industrial purposes", "preparations for separation of greases", "preparations of microorganisms other than for medical or veterinary use", "preparations of distillation of wood alcohol", "preparations of trace elements for plants", "preservatives for tiles except paints and oils", "preservatives for use in pharmaceutical industry", "promethium", "propellant gases for aerosols", "protactinium", "protective gases for welding", "protein raw material", "proteins for the food industry", "proteins for use in manufacture", "proteins for use in manufacture of food supplements", "pyrogallic acid", "quebracho for industrial purposes", "radiator flushing chemicals", "radioactive elements for scientific purposes", "radium for scientific purposes", "radon", "rare earths", "reagent paper other than for medical or veterinary purposes", "reducing agents for use in photography", "refrigerants", "renovating preparations for phonograph records", "rhenium", "rock salt", "rubber preservatives", "rubidium", "saccharin for industrial purposes", "saccharin for the food industry", "sal ammoniac", "sal ammoniac spirits", "salicylic acid", "salt for preserving other than for foodstuffs", "salt raw", "saltpeter", "salpetre", "salts chemical preparations", "salts fertilizers", "salts fertilisers", "salts for colouring metal", "salts for coloring metal", "salts for galvanic cells", "salts for galvanic batteries", "salts for industrial purposes", "salts from rare earth metals", "salts of alkaline metals", "salts of precious metals for industrial purposes", "samarium", "scandium", "seawater for industrial purposes", "seaweeds fertilizers", "seaweeds fertilisers", "sebacic acid", "seed preserving substances", "selenium", "self toning paper photography", "sensitized cloth for photography", "sensitized films unexposed", "sensitized paper", "sensitized photographic plates", "sensitized plates for offset printing", "separating and unsticking preparations", "ungluing preparations", "unsticking and separating preparations", "silicates", "silicon", "silicon carbide raw material", "silicones", "silver nitrate", "silver salt solutions for silvering", "size for finishing and priming", "size for use in textile industry", "sizing preparations", "slag fertilizers", "slag fertilisers", "soap metallic for industrial purposes", "soda ash", "sodium", "sodium salts chemical compounds", "soil conditioning preparations", "soil for growing", "soldering chemicals", "welding chemicals", "soldering fluxes", "solidified gases for industrial purposes", "solutions for cyanotyping", "solvents for varnishes", "soot for industrial or agricultural purposes", "sorrel salt", "spinel oxide mineral", "spirits of salt", "spirits of vinegar dilute acetic acid", "stain preventing chemicals for use on fabrics", "starch for industrial purposes", "starch paste adhesive other than for stationery or household purposes", "starch liquifying chemicals ungluing agents", "ungluing agents chemical preparations for liquifying starch", "stearic acid", "stem cells other than for medical or veterinary purposes", "strontium", "substances for preventing runs in stockings", "substrates for soil free growing agriculture", "sulfates", "sulfides", "sulfonic acids", "sulfur", "sulfuric acid", "sulfuric ether", "sulfurous acid", "sumac for use in tanning", "superphosphates fertilizers", "superphosphates fertilisers", "synthetic materials for absorbing oil", "synthetic resins unprocessed", "artificial resins unprocessed", "talc magnesium silicate", "tan", "tan wood", "tannic acid", "tannin", "tanning substances", "tapioca flour for industrial purposes", "tartar other than for pharmaceutical purposes", "tartaric acid", "tea extracts for the food industry", "tea extracts for use in manufacture of cosmetics", "tea extracts for use in manufacture of pharmaceuticals", "technetium", "tellurium", "tensio active agents", "surface active chemical agents", "terbium", "terpenes", "test paper chemical", "tetrachlorides", "textile brightening chemicals", "textile impregnating chemicals", "textile waterproofing chemicals", "thallium", "thermal paste", "thiocarbanilide", "thorium", "thulium", "thymol for industrial purposes", "titanite", "titanium dioxide for industrial purposes", "toluol", "toluene", "toning baths photography", "toning salts photography", "topsoil", "toxic gas neutralizers", "transmission fluid", "transmission oil", "tree cavity fillers forestry", "tungstic acid", "uranium", "uranium nitrate", "uranium oxide", "vanillin for use in manufacture", "vinic alcohol", "viruses other than for medical or veterinary purposes", "viscose", "vitamins for the food industry", "vitamins for use in manufacture of cosmetics", "vitamins for use in manufacture of food supplements", "vitamins for use in manufacture of pharmaceuticals", "vulcanization accelerators", "vulcanizing preparations", "wallpaper removing preparations", "water glass soluble glass", "water purifying chemicals", "water softening preparations", "wax bleaching chemicals", "wine finings", "witherite", "wood alcohol", "wood pulp", "wood vinegar pyroligneous acid", "X ray films sensitized but not exposed", "xenon", "xylene", "xylol", "yeast for scientific purposes", "yeast for use in biofuel production", "ytterbium", "yttrium", "zirconia"]
+  },
+  "2": {
+    "class_name": "Paints and Colorants",
+    "items": ["alizarine dyes", "aluminium paints", "aluminium powder for painting", "aniline dyes", "annotto dyestuff", "annatto dyestuff", "anti corrosive bands", "anti corrosive preparations", "anti fouling paints", "anti graffiti coatings paints", "anti rust greases", "anti rust oils", "anti rust preparations", "anti tarnishing preparations for metals", "anti urine paints", "asbestos paints", "auramine", "bactericidal paints", "badigeon", "binding preparations for paints", "agglutinants for paints", "bitumen varnish", "black japan", "bronze powder for painting", "bronzing lacquers", "Canada balsam", "caramel food colouring", "caramel food coloring", "carbon black pigment", "carbonyl for wood preservation", "ceramic paints", "coatings paints", "coatings for roofing felt paints", "cobalt oxide colorant", "cochineal carmine", "colophony", "colorants for restoration of furniture in form of markers", "colorants", "colourings for beer", "colourings for beverages", "colourings for butter", "colourings for liqueurs", "conductive inks", "conductive paints", "copal", "copal varnish", "creosote for wood preservation", "distempers", "dyes", "dyestuffs", "dyewood", "dye wood", "dyewood extracts", "wood dyestuffs", "edible ink cartridges filled for printers", "edible inks", "edible varnish for decorating food", "enamels varnishes", "enamels for painting", "enamel paints", "engraving ink", "fireproof paints", "fixatives varnishes", "fixatives for watercolours", "fixatives for watercolors", "food colouring", "food coloring", "gamboge for painting", "glazes paints lacquers", "glitter for use in paint", "gum resins", "gum lac", "shellac", "indigo colorant", "ink cartridges filled for printers and photocopiers", "ink for leather", "ink for printers and photocopiers", "lacquers", "lamp black pigment", "lime wash", "malt caramel food colouring", "malt caramel food coloring", "malt colorants", "marking ink for animals", "masking fluid for use in watercolour painting", "masking fluid for use in watercolor painting", "mastic natural resin", "metal foil for use in painting decorating printing and art", "metals in powder form for use in painting decorating printing and art", "mordants", "natural resins raw", "oil paints for use in art", "oils for preservation of wood", "orange lead", "litharge", "paints", "paper for dyeing eggs", "pigments", "primers", "printers pastes ink", "printing ink", "protective preparations for metals", "red lead", "minium", "repositionable paint patches", "saffron colorant", "sandarac", "shoe dyes", "siccatives drying agents for paints", "sienna earth", "silver emulsions pigments", "silver paste", "silvering powders", "soot colorant", "stains for leather", "mordants for leather", "sumac for varnishes", "tattooing ink", "thickeners for paints", "thinners for lacquers", "thinners for paints", "titanium dioxide pigment", "toner cartridges filled for printers and photocopiers", "toner for printers and photocopiers", "turmeric colorant", "turpentine thinner for paints", "undercoating for vehicle chassis", "undersealing for vehicle chassis", "varnishes", "watercolour paints for use in art", "watercolor paints for use in art", "white lead", "whitewash", "wood coatings paints", "wood floor finishes", "wood mordants", "wood preservatives", "wood stains", "yellowwood colorant", "zinc oxide pigment"]
+  },
+  "3": {
+    "class_name": "Cosmetics and Cleaning",
+    "items": ["shampoo", "soaps", "perfumes"]
+  },
+  "4": {
+    "class_name": "Lubricants and Fuels",
+    "items": ["engine oil", "grease", "fuel additives"]
+  },
+  "5": {
+    "class_name": "Pharmaceuticals",
+    "items": ["paracetamol", "antibiotics", "vitamins"]
+  },
+  "6": {
+    "class_name": "Metals and Alloys",
+    "items": ["copper sheets", "iron rods", "aluminum foil"]
+  },
+  "7": {
+    "class_name": "Machines",
+    "items": ["industrial lathe", "press machine", "conveyor belt"]
+  },
+  "8": {
+    "class_name": "Hand Tools",
+    "items": ["hammers", "screwdrivers", "wrenches"]
+  },
+  "9": {
+    "class_name": "Electronics",
+    "items": ["laptop computers", "smartphones", "circuit boards"]
+  },
+  "10": {
+    "class_name": "Medical Devices",
+    "items": ["surgical scalpel", "stethoscope", "thermometer"]
+  },
+  "11": {
+    "class_name": "Environmental Apparatus",
+    "items": ["air purifiers", "water filters", "recycling machines"]
+  },
+  "12": {
+    "class_name": "Vehicles",
+    "items": ["cars", "motorcycles", "bicycles"]
+  },
+  "13": {
+    "class_name": "Firearms",
+    "items": ["guns", "rifles", "ammunition"]
+  },
+  "14": {
+    "class_name": "Jewellery",
+    "items": ["gold rings", "necklaces", "earrings"]
+  },
+  "15": {
+    "class_name": "Musical Instruments",
+    "items": ["piano", "guitar", "drums"]
+  },
+  "16": {
+    "class_name": "Paper Products",
+    "items": ["notebooks", "stationery", "diaries"]
+  },
+  "17": {
+    "class_name": "Rubber Goods",
+    "items": ["rubber bands", "tires", "rubber gloves"]
+  },
+  "18": {
+    "class_name": "Leather Goods",
+    "items": ["wallets", "belts", "handbags"]
+  },
+  "19": {
+    "class_name": "Building Materials",
+    "items": ["cement", "bricks", "tiles"]
+  },
+  "20": {
+    "class_name": "Furniture",
+    "items": ["chairs", "tables", "sofas"]
+  },
+  "21": {
+    "class_name": "Household Appliances",
+    "items": ["blenders", "microwaves", "refrigerators"]
+  },
+  "22": {
+    "class_name": "Ropes and Nets",
+    "items": ["fishing nets", "climbing ropes", "cargo nets"]
+  },
+  "23": {
+    "class_name": "Yarns and Threads",
+    "items": ["cotton threads", "wool yarn", "silk threads"]
+  },
+  "24": {
+    "class_name": "Textiles",
+    "items": ["bedsheets", "curtains", "tablecloths"]
+  },
+  "25": {
+    "class_name": "Clothing",
+    "items": ["t-shirts", "jackets", "pants"]
+  },
+  "26": {
+    "class_name": "Sewing Articles",
+    "items": ["buttons", "needles", "pins"]
+  },
+  "27": {
+    "class_name": "Carpets and Mats",
+    "items": ["doormats", "rugs", "carpets"]
+  },
+  "28": {
+    "class_name": "Games and Sports",
+    "items": ["soccer balls", "tennis rackets", "badminton shuttlecocks"]
+  },
+  "29": {
+    "class_name": "Meat and Processed Foods",
+    "items": ["sausages", "canned meat", "ham"]
+  },
+  "30": {
+    "class_name": "Coffee, Tea, Cocoa",
+    "items": ["green tea", "coffee beans", "cocoa powder"]
+  },
+  "31": {
+    "class_name": "Agricultural Products",
+    "items": ["wheat", "corn", "rice"]
+  },
+  "32": {
+    "class_name": "Beers",
+    "items": ["lager beer", "ale", "stout"]
+  },
+  "33": {
+    "class_name": "Alcoholic Beverages (except Beers)",
+    "items": ["vodka", "whiskey", "rum"]
+  },
+  "34": {
+    "class_name": "Tobacco",
+    "items": ["cigarettes", "cigars", "pipe tobacco"]
+  },
+  "35": {
+    "class_name": "Business Management",
+    "items": ["retail store management", "consultancy", "marketing services"]
+  },
+  "36": {
+    "class_name": "Insurance and Finance",
+    "items": ["life insurance", "banking services", "investment advice"]
+  },
+  "37": {
+    "class_name": "Construction",
+    "items": ["roofing services", "building construction", "renovation services"]
+  },
+  "38": {
+    "class_name": "Materials Treatment",
+    "items": ["metal polishing", "surface coating", "plating services"]
+  },
+  "39": {
+    "class_name": "Transport and Storage",
+    "items": ["warehousing services", "shipping", "freight forwarding"]
+  },
+  "40": {
+    "class_name": "Treatment of Materials",
+    "items": ["dry cleaning services", "laundry", "textile finishing"]
+  },
+  "41": {
+    "class_name": "Education and Training",
+    "items": ["online courses", "tutoring", "workshops"]
+  },
+  "42": {
+    "class_name": "Scientific and Technological Services",
+    "items": ["laboratory research", "software development", "engineering consultancy"]
+  },
+  "43": {
+    "class_name": "Design and Development",
+    "items": ["graphic design", "interior design", "architectural services"]
+  },
+  "44": {
+    "class_name": "Medical and Veterinary Services",
+    "items": ["veterinary clinic services", "medical consultation", "dental services"]
+  },
+  "45": {
+    "class_name": "Legal and Security Services",
+    "items": ["private security services", "legal consultancy", "investigation services"]
+  }
+}
