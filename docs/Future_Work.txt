@@ -1,0 +1,21 @@
+FUTURE WORK
+Trademark MGS Checking Tool
+
+1. Improve Matching Accuracy
+- Add similarity scoring instead of simple matching
+- Highlight closest MGS suggestions
+
+2. Reporting
+- Generate PDF reports for users
+- Allow users to download results
+
+3. User Accounts
+- Store user search history
+- Add admin user management
+
+4. UI Enhancements
+- Animated percentage score
+- Better visual indicators
+
+5. Database Integration
+- Replace JSON with database in future versions

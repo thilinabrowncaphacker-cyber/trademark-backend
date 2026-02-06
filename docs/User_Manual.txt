@@ -1,0 +1,27 @@
+USER MANUAL
+Trademark MGS Checking Tool
+
+1. Login
+- Open the website
+- Enter username and password
+- Click Login
+
+2. Select Class
+- Choose the appropriate Nice Classification class (1–45)
+- Ensure the class matches your goods or services
+
+3. Enter Goods / Services
+- Type goods or services descriptions
+- Separate multiple entries using commas or new lines
+
+4. Check Results
+- Click the Check button
+- The system will display:
+  - MATCH: Acceptable according to MGS
+  - NO MATCH: Needs revision
+
+5. Reset
+- Click Reset to clear inputs and start again
+
+6. Logout
+- Click Logout to exit the system

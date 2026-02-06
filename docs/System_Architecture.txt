@@ -1,0 +1,35 @@
+SYSTEM ARCHITECTURE
+Trademark MGS Checking Tool
+
+1. Overview
+The system follows a client-server architecture where the frontend communicates
+with a backend server to process trademark goods and services checks.
+
+2. Components
+
+Frontend:
+- Login page (sign-in.html)
+- Goods and services input page (tables.html)
+- Sends user input to backend using HTTP requests
+
+Backend:
+- Node.js server (server.js)
+- Express framework
+- Reads MGS data from mgs.json
+- Processes matching logic
+- Sends results back to frontend
+
+Data Layer:
+- mgs.json file
+- Contains official MGS goods and services for each class
+
+3. Data Flow
+1. User enters goods/services and selects class
+2. Frontend sends data to backend
+3. Backend checks input against MGS data
+4. Backend returns match results
+5. Frontend displays results to user
+
+4. Deployment
+- Frontend hosted on GitHub Pages
+- Backend hosted on Render

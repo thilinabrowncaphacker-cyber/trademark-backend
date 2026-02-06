@@ -1,0 +1,36 @@
+PROJECT OVERVIEW
+Trademark Goods and Services Checking Tool (MGS Based)
+
+1. Introduction
+Trademark registration requires applicants to correctly describe goods and services
+according to the Nice Classification. Incorrect wording may result in objections or delays.
+This project aims to assist users in checking whether their goods and services descriptions
+match the official Madrid Goods and Services (MGS) terminology.
+
+2. Objective
+The main objective of this system is to provide a simple web-based tool that checks
+goods and services descriptions against the MGS database and indicates whether they
+are acceptable or need revision.
+
+3. Scope of the System
+- Users can log in to the system
+- Users can select a Nice Classification class (1–45)
+- Users can enter goods or services descriptions
+- The system checks the input against official MGS data
+- The system displays match or no-match results
+
+4. Technologies Used
+Frontend:
+- HTML
+- CSS (Soft UI Dashboard)
+- JavaScript
+
+Backend:
+- Node.js
+- Express.js
+- JSON-based MGS data
+
+5. Target Users
+- Trademark applicants
+- Legal assistants
+- Students studying intellectual property
