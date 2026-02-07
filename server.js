@@ -27,7 +27,6 @@ app.get("/check", (req, res) => {
 function getMatchScore(input, officialItems) {
   const inputWords = input.toLowerCase().split(/\s+/);
   let maxScore = 0;
-
   for (let item of officialItems) {
     const itemWords = item.toLowerCase().split(/\s+/);
     const matchedWords = inputWords.filter(w => itemWords.includes(w));
@@ -51,6 +50,7 @@ function findSuggestions(input, mgsData) {
     }
   }
 
+  // Return top 5 suggestions by score
   return suggestions.sort((a, b) => b.score - a.score).slice(0, 5);
 }
 
@@ -71,7 +71,17 @@ app.post("/check", (req, res) => {
     const matched = score >= 80;
     const suggestions = matched ? [] : findSuggestions(input, mgsData);
 
-    return { good: input, score, matched, suggestions };
+    // Store matched words for frontend highlight
+    const inputWords = input.toLowerCase().split(/\s+/);
+    const matchedWords = [];
+    suggestions.forEach(s => {
+      const sWords = s.item.toLowerCase().split(/\s+/);
+      inputWords.forEach(w => {
+        if (sWords.includes(w) && !matchedWords.includes(w)) matchedWords.push(w);
+      });
+    });
+
+    return { good: input, score, matched, suggestions, matchedWords };
   });
 
   res.json(results);
